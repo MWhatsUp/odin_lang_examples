@@ -1,5 +1,5 @@
 # odin_lang_examples
-Examples of code
+Examples of odin code
 
 ## Byte Array Drawing
 An example of using a byte array to draw on the screen via the raylib library.
